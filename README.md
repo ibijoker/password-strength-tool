@@ -1,9 +1,11 @@
-# password-strength-tool
 # 🔐 Python Password Strength Evaluator
 
 A lightweight, security-focused Python utility that evaluates the strength of a password based on standard Information Security (InfoSec) compliance rules. Built with computational efficiency in mind, this tool utilizes "Pythonic" logic (generator expressions and short-circuiting) for rapid credential validation. 
 
 Perfect for quick integration into security labs or as a standalone CLI tool.
+
+## 📸 Tool in Action
+![Password Checker Execution in VS Code](image_099922.png)
 
 ## ✨ Features
 * **Comprehensive Validation:** Enforces minimum security standards by checking for length (8+ characters), uppercase, lowercase, numbers, and symbols.
