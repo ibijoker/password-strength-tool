@@ -5,7 +5,7 @@ A lightweight, security-focused Python utility that evaluates the strength of a 
 Perfect for quick integration into security labs or as a standalone CLI tool.
 
 ## 📸 Tool in Action
-<img width="1919" height="1079" alt="Screenshot 2026-06-28 134641" src="https://github.com/user-attachments/assets/ffc7fbd7-f04d-4929-ac70-dc6cd62cccd5" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-28 134641" src="https://github.com/user-attachments/assets/4e688d58-ecac-4a0e-81e0-4295086ad3bd" />
 
 
 ## ✨ Features
